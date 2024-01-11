@@ -19,11 +19,11 @@ Fifteen members of Forbes Technology Council (https://www.forbes.com/sites/forbe
 14. ***Understanding intentions and behaviors***. Bad actors follow specific communication patterns. Ai can understand the intention behind communications.
 15. ***Proposal review***. Machine learning can analyze the scope, the pricing, and the contractor's historical performance to determine if the proposal is the right cost and will be done at the right quality level. 
 
-McKinsey & Company predicts AI could potentially create a total annual value across all industries of about US$9.5 - US$15.4 trillion. The insurance industry could have a total annual value of up to US$1.1 trillion. Particularly for this last industry, the risk concept implies 91.4 billions 60.4 Billion driven by the traditional AI and 31.1 Billion for advance AI.
+McKinsey & Company predicts AI could potentially create a total annual value across all industries of about US$9.5 - US$15.4 trillion. The insurance industry could have a total annual value of up to US$1.1 trillion. Particularly for this last industry, the risk concept implies 91.4 billion 60.4 Billion driven by traditional AI and 31.1 Billion for advanced AI.
 
 Traditional AI and analytics: (i) Machine Learning (Clustering), and (ii) Statistical techniques (i.e. basic regression). 
 Advance AI and analytics: (i) Deep learning neural networks (convolutional neural networks), and (ii) Reinforcement learning.
 
-Fuente: ![McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-executives-ai-playbook?page=industries/)
+Fuente: [McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-executives-ai-playbook?page=industries/)
 
 

@@ -27,3 +27,12 @@ Advance AI and analytics: (i) Deep learning neural networks (convolutional neura
 Fuente: [McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-executives-ai-playbook?page=industries/)
 
 
+There are three key components in AI-ML Jobs: 
+
+1. Data
+2. Model
+3. Compute
+
+There is a convergence happening between AI and Cloud Computing.
+1. Today the data processing power requiered to train the ML/AI models are increasing at a fast pace, therefore we won't have the choice but to use the Cloud to build train threse models.
+2. Thre are economies of scale, the cost of training these models using the Cloud is much lower than on-premises.
